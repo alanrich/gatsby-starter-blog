@@ -1,14 +1,15 @@
 module.exports = {
+  pathPrefix: `/writings`,
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Writings`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Alan Rich`,
+      summary: `who lives and works in Paris, building things and writing tutorials.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Technical writing in Front End Developement.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `TheAlanRich`,
     },
   },
   plugins: [
